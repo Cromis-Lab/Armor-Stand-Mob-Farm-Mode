@@ -1,4 +1,3 @@
-java
 package com.cromislab.armorstandmobfarmmode;
 
 import org.bukkit.entity.ArmorStand;
