@@ -39,7 +39,7 @@ public class ArmorStandMobFarmMode extends JavaPlugin {
                 return true;
             }
 
-            boolean newState = !stand.isMarkedInvulnerable();
+            boolean newState = !stand.isInvulnerable();
             stand.setInvulnerable(newState);
 
             player.sendMessage(
