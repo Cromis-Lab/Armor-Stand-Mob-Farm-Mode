@@ -1,0 +1,5 @@
+name: Armor Stand Mobfarm Mode
+version: 1.0.0
+main: com.cromislab.armorstandmobfarmmode.ArmorStandMobFarmMode
+description: Toggle armor stand invulnerability for mob farms.
+author: Cromis
