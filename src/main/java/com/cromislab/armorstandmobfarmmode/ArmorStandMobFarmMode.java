@@ -1,4 +1,4 @@
-```java
+java
 package com.cromislab.armorstandmobfarmmode;
 
 import org.bukkit.entity.ArmorStand;
@@ -52,4 +52,3 @@ public class ArmorStandMobFarmMode extends JavaPlugin {
         });
     }
 }
-```
